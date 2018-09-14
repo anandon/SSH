@@ -2,6 +2,6 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-<a href="ognlObj?msg=starlee2008">OGNL访问</a>
+<a href="ognlObj?msg=anandon">OGNL访问</a>
 </body>
 </html>
